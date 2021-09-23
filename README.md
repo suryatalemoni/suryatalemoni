@@ -1,6 +1,4 @@
-- 👋 Hi, I’m suryatale monika
-- 👀 I’m interested in codding 
-- 🌱 I’m currently wordking as a web Developer  
+- 👋 Hi, I’m a web Developer
 
 <!---
 suryatalemoni/suryatalemoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
